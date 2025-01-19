@@ -1,14 +1,12 @@
 {
-  "Rectricted": [
-    {
+  "Restricted": {
+    "28o6eB-hBDGLwU": {
       "name": "com.BulletApp",
-      "package": "com.bulletgames.plugger",
-      "key": "28o6eB-hBDGLwU"
+      "package": "com.bulletgames.plugger"
     },
-    {
-      "name": "com.BulletApp2",
-      "package": "com.app.test",
-      "key": "24387982"
+    "28o6eB-hBDGLwU1": {
+      "name": "com.BulletApp",
+      "package": "com.bulletgames.plugger"
     }
-  ]
+  }
 }
