@@ -1,7 +1,7 @@
 {
   "Restricted": {
     "28o6eB-hBDGLwU": {
-      "restricted": true,
+      "restricted": false,
       "name": "com.BulletApp",
       "package": "com.bulletgames.plugger"
     },
