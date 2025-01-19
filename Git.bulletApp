@@ -1,11 +1,13 @@
 {
   "Apps": [
     {
+      "name": "com.BulletApp"
       "package": "com.bulletgames.plugger",
       "key": "28o6eB-hBDGLwU"
     },
     {
-      "package": "com.appp.test",
+      "name": "com.BulletApp2"
+      "package": "com.app.test",
       "key": "24387982"
     }
   ]
