@@ -1,1 +1,12 @@
-["Apps" : { "package":"com.bulletgames.plugger", "key":"28o6eB-hBDGLwU" }]
+{
+  "Apps": [
+    {
+      "package": "com.bulletgames.plugger",
+      "key": "28o6eB-hBDGLwU"
+    },
+    {
+      "package": "com.appp.test",
+      "key": "24387982"
+    }
+  ]
+}
