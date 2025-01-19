@@ -1,12 +1,12 @@
 {
   "Rectricted": [
     {
-      "name": "com.BulletApp"
+      "name": "com.BulletApp",
       "package": "com.bulletgames.plugger",
       "key": "28o6eB-hBDGLwU"
     },
     {
-      "name": "com.BulletApp2"
+      "name": "com.BulletApp2",
       "package": "com.app.test",
       "key": "24387982"
     }
