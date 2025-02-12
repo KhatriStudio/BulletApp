@@ -5,7 +5,7 @@ import json
 
 app = FastAPI()
 
-@app.get("/scrape")
+@app.get("/next-data")
 async def scrape(url: str):
     if not url:
         raise HTTPException(status_code=400, detail="URL is required")
