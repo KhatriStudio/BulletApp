@@ -20,7 +20,7 @@ async def scrape(url: str):
         if script_tag:
             return json.loads(script_tag.string)  # Send JSON directly
         else:
-            raise HTTPException(status_code=404, detail="Script tag not found, response: ${response.text}")
+            raise HTTPException(status_code=404, detail=f"Script tag not found, response: {response.text}")
 
     except requests.exceptions.RequestException as e:
         raise HTTPException(status_code=500, detail=str(e))
